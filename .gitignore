@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea/
+*.debug
+*.out
+*.log1
+strace.out
+get-pip.py
+*.log
